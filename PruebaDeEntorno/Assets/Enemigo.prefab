@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5866354282233415602}
   - component: {fileID: 8972556013200068213}
-  - component: {fileID: 2957444369861240001}
+  - component: {fileID: 7473306581861466441}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Untagged
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2957444369861240001
+--- !u!114 &7473306581861466441
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
